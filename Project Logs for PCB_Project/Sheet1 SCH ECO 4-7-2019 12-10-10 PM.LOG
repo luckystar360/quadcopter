@@ -1,0 +1,3 @@
+Remove Pin=IC*1-8 From Net=3V3
+Remove Pin=IC*1-21 From Net=TX
+Remove Pin=IC*1-22 From Net=RX

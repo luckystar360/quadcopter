@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=RX Pin=J1-3
+Added Pin To Net: NetName=RX Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Member To Class: ClassName=Sheet1 Member=Component MD1 NRF24L01

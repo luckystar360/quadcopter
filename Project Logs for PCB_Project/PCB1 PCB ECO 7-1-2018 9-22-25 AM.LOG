@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CE Pin=U5-27
+Removed Pin From Net: NetName=CSN Pin=U5-28
+Removed Pin From Net: NetName=SCK Pin=U5-29
+Removed Pin From Net: NetName=MOSI Pin=U5-30
+Removed Pin From Net: NetName=MISO Pin=U5-59
+Added Pin To Net: NetName=MISO Pin=U5-58
+Added Pin To Net: NetName=MOSI Pin=U5-59
+Added Pin To Net: NetName=SCK Pin=U5-60
+Added Pin To Net: NetName=CSN Pin=U5-61
+Added Pin To Net: NetName=CE Pin=U5-62

@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : HMC5883L.LibPkg
+
+Section : C:\Users\LuckyStar\Desktop\Quadroto\Ver3\PCB_Project\lib\HMC5883L\HMC5883L.lia
+    Section : PCB Library - HMC5883L.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token HMC5883L On Line 117
+            Warning - 1 : Skipping Token attachedSymbol On Line 304
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - HMC5883L.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 106
+        EndSection
+
+        Section : Generating SCH Library - HMC5883L.SchLib
+        EndSection
+    EndSection
+EndSection

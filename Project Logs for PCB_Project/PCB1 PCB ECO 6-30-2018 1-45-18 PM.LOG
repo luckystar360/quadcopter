@@ -1,0 +1,15 @@
+Added Component: Designator=B1(16-PIN-LPCC)
+Added Pin To Net: NetName=XCL Pin=B1-1
+Added Pin To Net: NetName=3V3 Pin=B1-2
+Added Pin To Net: NetName=3V3 Pin=B1-4
+Added Pin To Net: NetName=NetB1_8 Pin=B1-8
+Added Pin To Net: NetName=GND Pin=B1-9
+Added Pin To Net: NetName=NetB1_10 Pin=B1-10
+Added Pin To Net: NetName=GND Pin=B1-11
+Added Pin To Net: NetName=SETC Pin=B1-12
+Added Pin To Net: NetName=3V3 Pin=B1-13
+Added Pin To Net: NetName=HMC_ Pin=B1-15
+Added Pin To Net: NetName=XDA Pin=B1-16
+Added Member To Class: ClassName=Sheet1 Member=Component B1 HMC5883L-TR
+Added Member To Class: ClassName=Sheet1 Member=Component C9 105
+Added Member To Class: ClassName=Sheet1 Member=Component C10 105

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=IC1-25
+Added Member To Class: ClassName=Sheet1 Member=Component IC*1 ESP8266 ESP-12-E

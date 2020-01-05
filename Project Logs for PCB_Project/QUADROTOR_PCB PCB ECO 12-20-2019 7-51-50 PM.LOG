@@ -1,0 +1,10 @@
+Added Component: Designator=IC*1(ESP8266 ESP-12-E)
+Added Pin To Net: NetName=NetIC*1_1 Pin=IC*1-1
+Added Pin To Net: NetName=NetIC*1_3 Pin=IC*1-3
+Added Pin To Net: NetName=3V3 Pin=IC*1-8
+Added Pin To Net: NetName=GND Pin=IC*1-15
+Added Pin To Net: NetName=NetIC*1_16 Pin=IC*1-16
+Added Pin To Net: NetName=NetIC*1_18 Pin=IC*1-18
+Added Pin To Net: NetName=TX Pin=IC*1-21
+Added Pin To Net: NetName=RX Pin=IC*1-22
+Added Member To Class: ClassName=Sheet1 Member=Component IC*1 ESP8266 ESP-12-E

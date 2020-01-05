@@ -1,0 +1,7 @@
+Added Component: Designator=U1(SOT95P285X120-5N)
+Added Pin To Net: NetName=NetD1_A Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=FB Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=VCC Pin=U1-5
+Added Member To Class: ClassName=Sheet1 Member=Component U1 LM27313XMF

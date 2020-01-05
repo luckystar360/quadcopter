@@ -1,0 +1,103 @@
+Added Component: Designator=C6(CM_S_1206)
+Added Component: Designator=CT1(CRYSTAL-SMD5032)
+Added Component: Designator=D1(DO-214AC)
+Added Component: Designator=IC1(MPU6050)
+Added Component: Designator=J1(62000211121)
+Added Component: Designator=J2(62000311121)
+Added Component: Designator=J3(62000411121)
+Added Component: Designator=L1(SM-IND-0805)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=Q3(SOT23)
+Added Component: Designator=Q4(SOT23)
+Added Component: Designator=U4(STM32_LQPF48)
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=OSC2 Pin=CT1-1
+Added Pin To Net: NetName=OSC1 Pin=CT1-2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=5V Pin=D1-K
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=XDA Pin=IC1-6
+Added Pin To Net: NetName=XCL Pin=IC1-7
+Added Pin To Net: NetName=3V3 Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-9
+Added Pin To Net: NetName=NetIC1_11 Pin=IC1-11
+Added Pin To Net: NetName=3V3 Pin=IC1-13
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Pin To Net: NetName=NetC1_1 Pin=IC1-20
+Added Pin To Net: NetName=SCL Pin=IC1-23
+Added Pin To Net: NetName=SDA Pin=IC1-24
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=RX Pin=J2-1
+Added Pin To Net: NetName=TX Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=3V3 Pin=J3-2
+Added Pin To Net: NetName=VCC Pin=L1-1
+Added Pin To Net: NetName=NetD1_A Pin=L1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetMT1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetMT2_1 Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetMT3_1 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetMT4_1 Pin=Q4-3
+Added Pin To Net: NetName=LED1 Pin=U4-2
+Added Pin To Net: NetName=OSC1 Pin=U4-5
+Added Pin To Net: NetName=OSC2 Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=3V3 Pin=U4-9
+Added Pin To Net: NetName=PWM1 Pin=U4-10
+Added Pin To Net: NetName=PWM2 Pin=U4-11
+Added Pin To Net: NetName=PWM3 Pin=U4-12
+Added Pin To Net: NetName=PWM4 Pin=U4-13
+Added Pin To Net: NetName=LED2 Pin=U4-14
+Added Pin To Net: NetName=GND Pin=U4-23
+Added Pin To Net: NetName=3V3 Pin=U4-24
+Added Pin To Net: NetName=LED3 Pin=U4-25
+Added Pin To Net: NetName=TX Pin=U4-30
+Added Pin To Net: NetName=RX Pin=U4-31
+Added Pin To Net: NetName=LED4 Pin=U4-33
+Added Pin To Net: NetName=GND Pin=U4-35
+Added Pin To Net: NetName=3V3 Pin=U4-36
+Added Pin To Net: NetName=SCL Pin=U4-42
+Added Pin To Net: NetName=SDA Pin=U4-43
+Added Pin To Net: NetName=GND Pin=U4-47
+Added Pin To Net: NetName=3V3 Pin=U4-48
+Added Pin To Net: NetName=MPU_INT Pin=IC1-12
+Added Pin To Net: NetName=MPU_INT Pin=U4-41
+Added Net: Name=MPU_INT
+Added Pin To Net: NetName=NetC11_2 Pin=IC1-10
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetR13_1 Pin=U4-44
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=RST Pin=U4-7
+Added Net: Name=RST
+Added Pin To Net: NetName=SWCLK Pin=J3-4
+Added Pin To Net: NetName=SWCLK Pin=U4-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J3-3
+Added Pin To Net: NetName=SWDIO Pin=U4-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=V_BAT Pin=U4-18
+Added Net: Name=V_BAT
+Added Member To Class: ClassName=Sheet1 Member=Component C6 tatanlum
+Added Member To Class: ClassName=Sheet1 Member=Component CT1 8Mhz
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Diode  Schottky 1N5819
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 MPU6050
+Added Member To Class: ClassName=Sheet1 Member=Component J1 Pin3.7V
+Added Member To Class: ClassName=Sheet1 Member=Component J2 UART
+Added Member To Class: ClassName=Sheet1 Member=Component J3 ICSP
+Added Member To Class: ClassName=Sheet1 Member=Component L1 L/0805
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 Si2302
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 Si2302
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 Si2302
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 Si2302
+Added Member To Class: ClassName=Sheet1 Member=Component U4 STM32F103xx_LQFP48

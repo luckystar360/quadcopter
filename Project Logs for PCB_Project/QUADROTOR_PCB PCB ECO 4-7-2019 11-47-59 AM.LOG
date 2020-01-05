@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3V3 Pin=IC*1-8
+Removed Pin From Net: NetName=GND Pin=IC*1-15
+Removed Pin From Net: NetName=TX Pin=IC*1-21
+Removed Pin From Net: NetName=RX Pin=IC*1-22
+Removed Member From Class: ClassName=Sheet1 Member=IC*1

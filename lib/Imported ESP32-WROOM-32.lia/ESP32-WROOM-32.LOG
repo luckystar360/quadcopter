@@ -1,0 +1,33 @@
+PCAD Importer Log
+Project : ESP32-WROOM-32.LibPkg
+
+Section : F:\PROJECT\Quadroto\Ver4\PCB_Project\lib\ESP32-WROOM-32.lia
+    Section : PCB Library - ESP32-WROOM-32.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 144
+            Warning - 1 : Skipping Token isVisible On Line 148
+            Warning - 1 : Skipping Token isVisible On Line 157
+            Warning - 1 : Skipping Token isVisible On Line 161
+            Warning - 1 : Skipping Token ESP32-WROOM-32 On Line 175
+            Warning - 1 : Skipping Token attachedSymbol On Line 591
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ESP32-WROOM-32.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 137
+            Warning - 1 : Skipping Token layerContents On Line 150
+            Warning - 1 : Skipping Token layerContents On Line 163
+            Warning - 1 : Skipping Token isVisible On Line 532
+        EndSection
+
+        Section : Generating SCH Library - ESP32-WROOM-32.SchLib
+        EndSection
+    EndSection
+EndSection

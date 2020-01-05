@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HMC5883L-TR
+D HONEYWELL - HMC5883L-TR - IC, DIGITAL COMPASS, 3 AXIS, 16 PIN
+K
+F https://componentsearchengine.com/Datasheets/2/HMC5883L-TR.pdf
+$ENDCMP
+#
+#End Doc Library

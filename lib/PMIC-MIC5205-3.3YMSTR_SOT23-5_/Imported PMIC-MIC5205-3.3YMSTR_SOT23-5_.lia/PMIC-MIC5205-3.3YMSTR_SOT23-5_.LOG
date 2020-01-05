@@ -1,0 +1,25 @@
+PCAD Importer Log
+Project : PMIC-MIC5205-3.3YMSTR_SOT23-5_.LibPkg
+
+Section : C:\Users\LuckyStar\Desktop\Quadroto\ver2\lib\PMIC-MIC5205-3.3YMSTR_SOT23-5_\PMIC-MIC5205-3.3YMSTR_SOT23-5_.lia
+    Section : PCB Library - PMIC-MIC5205-3.3YMSTR_SOT23-5_.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token PMIC-MIC5205-3.3YMSTR On Line 135
+            Warning - 1 : Skipping Token attachedSymbol On Line 222
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - PMIC-MIC5205-3.3YMSTR_SOT23-5_.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 91
+        EndSection
+
+        Section : Generating SCH Library - PMIC-MIC5205-3.3YMSTR_SOT23-5_.SchLib
+        EndSection
+    EndSection
+EndSection

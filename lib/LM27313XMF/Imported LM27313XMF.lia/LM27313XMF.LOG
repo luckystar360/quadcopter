@@ -1,0 +1,25 @@
+PCAD Importer Log
+Project : LM27313XMF.LibPkg
+
+Section : C:\Users\LuckyStar\Desktop\Quadroto\ver2\lib\LM27313XMF\LM27313XMF.lia
+    Section : PCB Library - LM27313XMF.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LM27313XMF On Line 121
+            Warning - 1 : Skipping Token attachedSymbol On Line 198
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LM27313XMF.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 91
+        EndSection
+
+        Section : Generating SCH Library - LM27313XMF.SchLib
+        EndSection
+    EndSection
+EndSection

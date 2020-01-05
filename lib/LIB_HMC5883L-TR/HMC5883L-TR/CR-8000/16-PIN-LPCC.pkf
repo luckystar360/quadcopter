@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "16-PIN-LPCC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "16-PIN-LPCC")
+        (spec "default")
+    )
+)
