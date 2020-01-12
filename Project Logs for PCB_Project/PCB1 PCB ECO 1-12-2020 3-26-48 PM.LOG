@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=MT1 Old Footprint=62000211121 New Footprint=SM-0805
+Change Component Footprint: Designator=MT2 Old Footprint=62000211121 New Footprint=SM-0805
+Change Component Footprint: Designator=MT3 Old Footprint=62000211121 New Footprint=SM-0805
+Change Component Footprint: Designator=MT4 Old Footprint=62000211121 New Footprint=SM-0805
+Change Component Comment : Designator=MT1 Old Comment=Coreless820 New Comment=Coreless720
+Change Component Comment : Designator=MT2 Old Comment=Coreless820 New Comment=Coreless720
+Change Component Comment : Designator=MT3 Old Comment=Coreless820 New Comment=Coreless720
+Change Component Comment : Designator=MT4 Old Comment=Coreless820 New Comment=Coreless720
+Added Member To Class: ClassName=Sheet1 Member=Component C13 225

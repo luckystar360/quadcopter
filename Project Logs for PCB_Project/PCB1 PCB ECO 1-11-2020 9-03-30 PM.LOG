@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=IC*1 NewDesignator=IC2
+Change Net Name : Old Net Name=NetIC*1_1 New Net Name=NetIC2_1
+Change Net Name : Old Net Name=NetIC*1_3 New Net Name=NetIC2_3
+Change Net Name : Old Net Name=NetIC*1_16 New Net Name=NetIC2_16
+Change Net Name : Old Net Name=NetIC*1_18 New Net Name=NetIC2_18
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 ESP8266 ESP-12-E

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=OSC2 Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Member From Class: ClassName=Sheet1 Member=C18
+Change Component Comment : Designator=C18 Old Comment=470n New Comment=22p
+Change Component Designator: OldDesignator=C18 NewDesignator=C17
+Added Pin To Net: NetName=OSC2 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2

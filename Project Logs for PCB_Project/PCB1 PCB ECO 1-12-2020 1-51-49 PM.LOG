@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=OSC1 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=OSC2 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=OSC2 Pin=CT1-1
+Removed Pin From Net: NetName=OSC1 Pin=CT1-2
+Removed Member From Class: ClassName=Sheet1 Member=C15
+Removed Member From Class: ClassName=Sheet1 Member=CT1
+Added Component: Designator=XT1(CRYSTAL CSTCE20M0V53-R0)
+Added Pin To Net: NetName=OSC1 Pin=XT1-1
+Added Pin To Net: NetName=GND Pin=XT1-2
+Added Pin To Net: NetName=OSC2 Pin=XT1-3
+Added Member To Class: ClassName=Sheet1 Member=Component XT1 20Mhz
